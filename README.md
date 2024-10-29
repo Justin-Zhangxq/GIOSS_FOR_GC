@@ -6,7 +6,7 @@ This project develops and validates a machine learning model to predict 5-year o
 
 ## Availability of Data and Materials
 
-Data will be accessible beginning with the publication of the article. Data can be requested by contacting Huang CM, who had full access to all the data in the study and takes responsibility for the integrity and accuracy of the data analysis. Requests for data sharing will be handled in accordance with the data access and sharing policy of Fujian Medical University Union Hospital. Researchers interested in accessing the data should email Huang CM at hcmlr2002@163.com with a detailed proposal of their intended use. Access will be granted upon approval of the proposal and the signing of a data access agreement.
+Data will be accessible beginning with the publication of the article. Data can be requested by contacting Huang CM, who had full access to all the data in the study and takes responsibility for the integrity and accuracy of the data analysis. Requests for data sharing will be handled in accordance with the data access and sharing policy of Fujian Medical University Union Hospital. Researchers interested in accessing the data should email Huang CM at anelzxq@126.com with a detailed proposal of their intended use. Access will be granted upon approval of the proposal and the signing of a data access agreement.
 
 ## Software Information
 
